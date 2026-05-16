@@ -3,7 +3,7 @@
 
 - I am working on to develop **Zen book**
 
-- I am currently learning **React ***
+- I am currently learning **React**
 
 - Reach me out through my instagram **@zenx.pc**
 
