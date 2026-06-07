@@ -1,7 +1,7 @@
 <h1 align="center">Hello, Myself Zen</h1>
 <h3 align="center">A teenage self taught developer who's still discoverng life</h3>
 
-- I am working on to develop **Zen book**
+- I am working on to develop **nothing rn**
 
 - I am currently learning **React**
 
