@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Myself Zen</h1>
+<h1 align="center">Hello, Myself Zen(Prakit Chetia)</h1>
 <h3 align="center">A teenage self taught developer who's still discoverng life</h3>
 
 - I am working on to develop **nothing rn**
