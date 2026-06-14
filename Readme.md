@@ -2,9 +2,6 @@
 <h3 align="center">A teenage self taught developer who's still discoverng life</h3>
 
 - I am working on to develop **nothing rn**
-
-- I am currently learning **React**
-
 - Reach me out through my instagram **@zenx.pc**
 
 <h3 align="left">Connect with me:</h3>
