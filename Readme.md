@@ -2,12 +2,12 @@
 <h3 align="center">A teenage self taught developer who's still discovering life</h3>
 
 - I am working on to develop **nothing right now**
-- Reach me out through my instagram **@zenx.pc**
+- Reach me out through my instagram **@zenuxql**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codesandbox.com/zenformality" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="zenformality" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/zenx.pc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/zenx.pc" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/zenuxql" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/zenx.pc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
